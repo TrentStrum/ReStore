@@ -1,7 +1,7 @@
-import Catalog from "../features/catalog/Catalog";
 import { Container, CssBaseline, ThemeProvider, Typography, createTheme } from "@mui/material";
 import Header from "./Header";
 import { useState } from "react";
+import { Outlet } from "@mui/icons-material";
 
 function App() {
   const [darkMode, setDarkMode] = useState(false);
@@ -26,7 +26,7 @@ return (
       <CssBaseline/>
       <Header darkMode={darkMode} handleThemeChange={handleThemeChange}/>
       <Container>
-        <Catalog />
+        <Outlet />
       </Container>
     </ThemeProvider>
 
