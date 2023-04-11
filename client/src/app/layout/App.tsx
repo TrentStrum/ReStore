@@ -1,7 +1,8 @@
-import { Container, CssBaseline, ThemeProvider, Typography, createTheme } from "@mui/material";
+import { Container, CssBaseline, ThemeProvider, createTheme } from "@mui/material";
 import Header from "./Header";
 import { useState } from "react";
-import { Outlet } from "@mui/icons-material";
+import { Outlet } from "react-router-dom";
+
 
 function App() {
   const [darkMode, setDarkMode] = useState(false);
@@ -21,16 +22,13 @@ function handleThemeChange(){
 
 
 return (
-  <>
     <ThemeProvider theme={theme}>
       <CssBaseline/>
       <Header darkMode={darkMode} handleThemeChange={handleThemeChange}/>
       <Container>
-        <Outlet />
+        <Outlet/>
       </Container>
     </ThemeProvider>
-
-  </>
 )
 }
 
