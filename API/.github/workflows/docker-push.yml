@@ -2,9 +2,6 @@ name: docker-push
 
 on:
   workflow_dispatch:
-  #push:
-    #branches:
-      #- 'main'
 
 jobs:
   docker:
@@ -21,7 +18,8 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
       -
         name: Build and push
-        uses: docker/build-push-action@v4
-        with: 
-          context:"{{defaultContext}}:API" push: true
+        uses: docker/build-push-action@v3
+        with:
+          context: "{{defaultContext}}:API"
+          push: true
           tags: tstrum/restore:latest
