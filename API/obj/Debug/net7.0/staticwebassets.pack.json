@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\hero1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\hero2.jpg",
+      "PackagePath": "staticwebassets\\images\\hero2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\hero3.jpg",
+      "PackagePath": "staticwebassets\\images\\hero3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\images\\placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\boot-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\boot-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang2.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\boot-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\boot-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core2.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\boot-redis1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-redis1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\glove-code1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\glove-code2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code2.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\glove-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\glove-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react2.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\hat-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-core1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\hat-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\hat-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react2.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\sb-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\sb-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang2.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\sb-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\sb-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core2.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\sb-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-react1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\sb-ts1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ts1.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\logo192.png",
+      "PackagePath": "staticwebassets\\logo192.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\logo512.png",
+      "PackagePath": "staticwebassets\\logo512.png"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\css\\main.b16e461e.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.b16e461e.css"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\css\\main.b16e461e.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.b16e461e.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\js\\787.c4e7f8f9.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\787.c4e7f8f9.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\js\\787.c4e7f8f9.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\787.c4e7f8f9.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\js\\main.2b58f33d.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.2b58f33d.js"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\js\\main.2b58f33d.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.2b58f33d.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\js\\main.2b58f33d.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.2b58f33d.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-all-300-normal.168d6383e73339293ac3.woff",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-all-300-normal.168d6383e73339293ac3.woff"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-all-400-normal.c5d001fa922fa66a147f.woff",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-all-400-normal.c5d001fa922fa66a147f.woff"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-all-500-normal.0ab669b7a0d19b178f57.woff"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-all-700-normal.a457fde362a540fcadff.woff",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-all-700-normal.a457fde362a540fcadff.woff"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-300-normal.1431d1cef06ad04f5458.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-cyrillic-300-normal.1431d1cef06ad04f5458.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-400-normal.71a33b6b50457b2c903a.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-cyrillic-400-normal.71a33b6b50457b2c903a.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-500-normal.cad7d3d9cb265e334e58.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-cyrillic-500-normal.cad7d3d9cb265e334e58.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-700-normal.d010f1f324e111a22e53.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-cyrillic-700-normal.d010f1f324e111a22e53.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-ext-300-normal.4777461b144e55145268.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-cyrillic-ext-300-normal.4777461b144e55145268.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-ext-500-normal.62ced72e5832f02c2796.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-cyrillic-ext-500-normal.62ced72e5832f02c2796.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-ext-700-normal.be4d02458ce53887dc37.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-cyrillic-ext-700-normal.be4d02458ce53887dc37.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-300-normal.db2632771401f61463fe.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-greek-300-normal.db2632771401f61463fe.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-400-normal.c35e4c3958e209d17b31.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-greek-400-normal.c35e4c3958e209d17b31.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-500-normal.9ac81fefbe6c319ea40b.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-greek-500-normal.9ac81fefbe6c319ea40b.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-700-normal.50e795c1345353b0e996.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-greek-700-normal.50e795c1345353b0e996.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-ext-500-normal.6fb9cffb1d3e72bf9293.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-greek-ext-500-normal.6fb9cffb1d3e72bf9293.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-300-normal.c48fb6765a9fcb00b330.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-latin-300-normal.c48fb6765a9fcb00b330.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-latin-700-normal.227c93190fe7f82de3f8.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-ext-300-normal.dc7dcec8e3f654e0ed63.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-latin-ext-300-normal.dc7dcec8e3f654e0ed63.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-ext-400-normal.861b791f9de857a6e7bc.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-latin-ext-400-normal.861b791f9de857a6e7bc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-ext-500-normal.9165081d10e1ba601384.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-latin-ext-500-normal.9165081d10e1ba601384.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-ext-700-normal.ed67ad54b1a8f5d21150.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-latin-ext-700-normal.ed67ad54b1a8f5d21150.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-vietnamese-300-normal.32fc45a3d1e8ea11fabc.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-vietnamese-300-normal.32fc45a3d1e8ea11fabc.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-vietnamese-500-normal.d8642a3d1d4ef6179644.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-vietnamese-500-normal.d8642a3d1d4ef6179644.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-vietnamese-700-normal.3425a701027d0699e369.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\roboto-vietnamese-700-normal.3425a701027d0699e369.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\slick.2630a3e3eab21c607e21.svg",
+      "PackagePath": "staticwebassets\\static\\media\\slick.2630a3e3eab21c607e21.svg"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\slick.295183786cd8a1389865.woff",
+      "PackagePath": "staticwebassets\\static\\media\\slick.295183786cd8a1389865.woff"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\slick.a4e97f5a2a64f0ab1323.eot",
+      "PackagePath": "staticwebassets\\static\\media\\slick.a4e97f5a2a64f0ab1323.eot"
+    },
+    {
+      "Id": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\slick.c94f7671dcc99dce43e2.ttf",
+      "PackagePath": "staticwebassets\\static\\media\\slick.c94f7671dcc99dce43e2.ttf"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
