@@ -1,4 +1,7 @@
-public class UserAddress : Address
+namespace API.Entities
 {
-    public int Id { get; set; }
+    public class UserAddress : Address
+    {
+        public int Id { get; set; }
+    }
 }

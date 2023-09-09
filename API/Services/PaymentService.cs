@@ -1,6 +1,4 @@
-using System.Threading.Tasks;
 using API.Entities;
-using Microsoft.Extensions.Configuration;
 using Stripe;
 
 namespace API.Services
@@ -15,7 +13,7 @@ namespace API.Services
 
         public async Task<PaymentIntent> CreateOrUpdatePaymentIntent(Basket basket)
         {
-            StripeConfiguration.ApiKey = _config["StripeSettings:secretKey"];
+            StripeConfiguration.ApiKey = _config["StripeSettings:SecretKey"];
 
             var service = new PaymentIntentService();
 
@@ -29,10 +27,9 @@ namespace API.Services
                 {
                     Amount = subtotal + deliveryFee,
                     Currency = "usd",
-                    PaymentMethodTypes = new List<string> {"card"}
+                    PaymentMethodTypes = new List<string> { "card" }
                 };
                 intent = await service.CreateAsync(options);
-
             }
             else
             {

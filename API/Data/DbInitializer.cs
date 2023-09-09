@@ -7,7 +7,6 @@ namespace API.Data
     {
         public static async Task Initialize(StoreContext context, UserManager<User> userManager)
         {
-
             if (!userManager.Users.Any())
             {
                 var user = new User
@@ -25,13 +24,14 @@ namespace API.Data
                     Email = "admin@test.com"
                 };
 
-                await userManager.CreateAsync(admin, "Pa$$w0rd");    
-                await userManager.AddToRolesAsync(admin, new[] {"Member","Admin"});
+                await userManager.CreateAsync(admin, "Pa$$w0rd");
+                await userManager.AddToRolesAsync(admin, new[] {"Member", "Admin"});
             }
+            
 
             if (context.Products.Any()) return;
 
-            var products = new List<Product>()
+            var products = new List<Product>
             {
                 new Product
                 {
@@ -230,11 +230,12 @@ namespace API.Data
                     QuantityInStock = 100
                 },
             };
-
+            
             foreach (var product in products)
             {
                 context.Products.Add(product);
             }
+
             context.SaveChanges();
         }
     }

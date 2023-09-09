@@ -43,13 +43,13 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-builder.Services.AddDbContext<StoreContext>(opt => 
+
+builder.Services.AddDbContext<StoreContext>(opt =>
 {
     opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
-}
-);
+});
 builder.Services.AddCors();
-builder.Services.AddIdentityCore<User>(opt =>
+builder.Services.AddIdentityCore<User>(opt => 
 {
     opt.User.RequireUniqueEmail = true;
 })
@@ -64,15 +64,15 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateAudience = false,
             ValidateLifetime = true,
             ValidateIssuerSigningKey = true,
-            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JWTSettings:TokenKey"]))
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.
+                GetBytes(builder.Configuration["JWTSettings:TokenKey"]))
         };
     });
-
 builder.Services.AddAuthorization();
 builder.Services.AddScoped<TokenService>();
 builder.Services.AddScoped<PaymentService>();
 
-var app = builder.Build();  
+var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 app.UseMiddleware<ExceptionMiddleware>();
@@ -86,7 +86,6 @@ if (app.Environment.IsDevelopment())
     });
 }
 
-//app.UseHttpsRedirection();
 app.UseCors(opt => 
 {
     opt.AllowAnyHeader().AllowAnyMethod().AllowCredentials().WithOrigins("http://localhost:3000");
@@ -108,7 +107,7 @@ try
 }
 catch (Exception ex)
 {
-    logger.LogError(ex, "A problem occured during migration.");
+    logger.LogError(ex, "A problem occurred during migration");
 }
 
 app.Run();

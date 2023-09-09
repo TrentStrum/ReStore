@@ -1,6 +1,9 @@
 using Microsoft.AspNetCore.Identity;
 
-public class User : IdentityUser<int>
+namespace API.Entities
 {
-    public UserAddress Address { get; set; }
+    public class User : IdentityUser<int>
+    {
+        public UserAddress Address { get; set; }
+    }
 }

@@ -1,4 +1,7 @@
-public class RegisterDto : LoginDto
+namespace API.DTOs
 {
-    public string Email { get; set; }
+    public class RegisterDto : LoginDto
+    {
+        public string Email { get; set; }
+    }
 }

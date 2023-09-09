@@ -1,6 +1,9 @@
 using Microsoft.AspNetCore.Identity;
 
-public class Role : IdentityRole<int>
+namespace API.Entities
 {
-    
+    public class Role : IdentityRole<int>
+    {
+        
+    }
 }

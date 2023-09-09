@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6xKk3nxvnSWb4E7ibH8NuelgPu5/QW1bDNjbGESHPjFeo2yByiEWsTuus8eOIbid9nh0bqLhvILuNMQ2KgxPtQ==",
+  "dgSpecHash": "2edyi2CUeN4xQLwoNiZjOl+ltp6+7SSpDrIDlTIHr72FM7ECp9aj3Dype2PPEy0t93KqzwWOIoPe8+EzS8HT6g==",
   "success": true,
   "projectFilePath": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\API.csproj",
   "expectedPackageFiles": [
@@ -41,7 +41,6 @@
     "C:\\Users\\trent\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\trent\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\trent\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\trent\\.nuget\\packages\\node.js\\5.3.0\\node.js.5.3.0.nupkg.sha512",
     "C:\\Users\\trent\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\trent\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
     "C:\\Users\\trent\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
