@@ -1,17 +1,17 @@
-import { Container, createTheme, CssBaseline, ThemeProvider } from "@mui/material";
-import { useCallback, useEffect, useState } from "react";
-import { Outlet, useLocation } from "react-router-dom";
-import { ToastContainer } from "react-toastify";
+import { Container, CssBaseline, ThemeProvider, createTheme } from "@mui/material";
 import Header from "./Header";
+import { useCallback, useEffect, useState } from "react";
+import { Outlet } from "react-router-dom";
+import { ToastContainer } from "react-toastify";
 import 'react-toastify/dist/ReactToastify.css';
-import LoadingComponent from "./LoadingComponent";
+import LoadingComponents from "./LoadingComponents";
 import { useAppDispatch } from "../store/configureStore";
-import HomePage from "../../features/home/HomePage";
-import { fetchCurrentUser } from "../../features/account/accountSlice";
-import { fetchBasketAsync } from "../../features/basket/basketSlice";
+import { fetchBasketAsync } from "../features/basket/basketSlice";
+import { fetchCurrentUser } from "../features/account/accountSlice";
+
 
 function App() {
-  const location = useLocation();
+  // const {setBasket} = useStoreContext();
   const dispatch = useAppDispatch();
   const [loading, setLoading] = useState(true);
 
@@ -22,41 +22,41 @@ function App() {
     } catch (error) {
       console.log(error);
     }
-  }, [dispatch]);
+  }, [dispatch])
 
-  useEffect(() => {
-    initApp().then(() => setLoading(false));
-  }, [initApp])
+useEffect(()=> {
+  initApp().then(() => setLoading(false));
+}, [initApp()])
 
   const [darkMode, setDarkMode] = useState(false);
-  const palleteType = darkMode ? 'dark' : 'light';
+  const paletteType = darkMode ? 'dark' : 'light'
   const theme = createTheme({
-    palette: {
-      mode: palleteType,
+    palette:{
+      mode: paletteType,
       background: {
-        default: (palleteType === 'light') ? '#eaeaea' : '#121212'
+        default: paletteType === 'light' ? '#eaeaea' : '#121212'
       }
-    }
-  })
-
-  function handleThemeChange() {
-    setDarkMode(!darkMode);
   }
+})
 
-  return (
+function handleThemeChange(){
+  setDarkMode(!darkMode)
+}
+
+if (loading) return <LoadingComponents message="Initialising app..." />
+
+
+return (
     <ThemeProvider theme={theme}>
-      <ToastContainer position="bottom-right" hideProgressBar theme="colored" />
-      <CssBaseline />
-      <Header darkMode={darkMode} handleThemeChange={handleThemeChange} />
-      {loading ? <LoadingComponent message="Initialising app..." />
-          : location.pathname === '/' ? <HomePage />
-          : <Container sx={{mt: 4}}>
-              <Outlet />
-            </Container>
-      }
-
+      <ToastContainer position="bottom-right" hideProgressBar theme='colored'/> 
+      <CssBaseline/>
+      <Header darkMode={darkMode} handleThemeChange={handleThemeChange}/>
+      <Container>
+        <Outlet/>
+      </Container>
     </ThemeProvider>
-  );
+)
 }
 
 export default App;
+
