@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5gIW9ZDRWNBVtCzsxmSacmSeaM5v3sZ4XIVizocXuss=",
+  "Hash": "0wNRUopzM53zh43WZOVTS14Lw5ZnpshSsuuJsMXBMDs=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\asset-manifest.json",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\asset-manifest.json",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "asset-manifest.json",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\asset-manifest.json"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\favicon.ico",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\hero1.jpg",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\hero1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/hero1.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hero1.jpg"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\hero2.jpg",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\hero2.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/hero2.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hero2.jpg"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\hero3.jpg",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\hero3.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/hero3.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hero3.jpg"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\logo.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\placeholder.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\placeholder.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/placeholder.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\placeholder.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\boot-ang1.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\boot-ang1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/boot-ang1.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang1.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\boot-ang2.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\boot-ang2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/boot-ang2.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang2.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\boot-core1.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\boot-core1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/boot-core1.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-core1.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\boot-core2.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\boot-core2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/boot-core2.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-core2.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\boot-redis1.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\boot-redis1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/boot-redis1.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-redis1.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\glove-code1.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\glove-code1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/glove-code1.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-code1.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\glove-code2.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\glove-code2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/glove-code2.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-code2.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\glove-react1.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\glove-react1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/glove-react1.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-react1.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\glove-react2.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\glove-react2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/glove-react2.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-react2.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\hat-core1.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\hat-core1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/hat-core1.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-core1.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\hat-react1.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\hat-react1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/hat-react1.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-react1.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\hat-react2.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\hat-react2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/hat-react2.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-react2.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\sb-ang1.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\sb-ang1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-ang1.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\sb-ang2.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\sb-ang2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-ang2.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\sb-core1.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\sb-core1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-core1.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-core1.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\sb-core2.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\sb-core2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-core2.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-core2.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\sb-react1.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\sb-react1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-react1.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-react1.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\images\\products\\sb-ts1.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\images\\products\\sb-ts1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/products/sb-ts1.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ts1.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\index.html",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\logo192.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\logo192.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "logo192.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\logo192.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\logo512.png",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\logo512.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "logo512.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\logo512.png"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\manifest.json",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\manifest.json",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "manifest.json",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\manifest.json"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\robots.txt",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\robots.txt",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "robots.txt",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\robots.txt"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\css\\main.51de8782.css",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\css\\main.51de8782.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/css/main.51de8782.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\static\\css\\main.51de8782.css"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\css\\main.51de8782.css.map",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\css\\main.51de8782.css.map",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/css/main.51de8782.css.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\static\\css\\main.51de8782.css.map"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\js\\787.c4e7f8f9.chunk.js",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\js\\787.c4e7f8f9.chunk.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/js/787.c4e7f8f9.chunk.js",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\787.c4e7f8f9.chunk.js"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\js\\787.c4e7f8f9.chunk.js.map",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\js\\787.c4e7f8f9.chunk.js.map",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/js/787.c4e7f8f9.chunk.js.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\787.c4e7f8f9.chunk.js.map"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\js\\main.61b9adc1.js",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\js\\main.61b9adc1.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/js/main.61b9adc1.js",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\main.61b9adc1.js"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\js\\main.61b9adc1.js.LICENSE.txt",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\js\\main.61b9adc1.js.LICENSE.txt",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/js/main.61b9adc1.js.LICENSE.txt",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\main.61b9adc1.js.LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\js\\main.61b9adc1.js.map",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\js\\main.61b9adc1.js.map",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/js/main.61b9adc1.js.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\main.61b9adc1.js.map"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-all-300-normal.168d6383e73339293ac3.woff",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-all-300-normal.168d6383e73339293ac3.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-all-300-normal.168d6383e73339293ac3.woff",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-all-300-normal.168d6383e73339293ac3.woff"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-all-400-normal.c5d001fa922fa66a147f.woff",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-all-400-normal.c5d001fa922fa66a147f.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-all-400-normal.c5d001fa922fa66a147f.woff"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-all-500-normal.0ab669b7a0d19b178f57.woff"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-all-700-normal.a457fde362a540fcadff.woff",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-all-700-normal.a457fde362a540fcadff.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-all-700-normal.a457fde362a540fcadff.woff"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-300-normal.1431d1cef06ad04f5458.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-cyrillic-300-normal.1431d1cef06ad04f5458.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-cyrillic-300-normal.1431d1cef06ad04f5458.woff2",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-cyrillic-300-normal.1431d1cef06ad04f5458.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-400-normal.71a33b6b50457b2c903a.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-cyrillic-400-normal.71a33b6b50457b2c903a.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-cyrillic-400-normal.71a33b6b50457b2c903a.woff2",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-cyrillic-400-normal.71a33b6b50457b2c903a.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-500-normal.cad7d3d9cb265e334e58.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-cyrillic-500-normal.cad7d3d9cb265e334e58.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-cyrillic-500-normal.cad7d3d9cb265e334e58.woff2",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-cyrillic-500-normal.cad7d3d9cb265e334e58.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-700-normal.d010f1f324e111a22e53.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-cyrillic-700-normal.d010f1f324e111a22e53.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-cyrillic-700-normal.d010f1f324e111a22e53.woff2",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-cyrillic-700-normal.d010f1f324e111a22e53.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-ext-300-normal.4777461b144e55145268.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-cyrillic-ext-300-normal.4777461b144e55145268.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-cyrillic-ext-300-normal.4777461b144e55145268.woff2",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-cyrillic-ext-300-normal.4777461b144e55145268.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-ext-500-normal.62ced72e5832f02c2796.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-cyrillic-ext-500-normal.62ced72e5832f02c2796.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-cyrillic-ext-500-normal.62ced72e5832f02c2796.woff2",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-cyrillic-ext-500-normal.62ced72e5832f02c2796.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-cyrillic-ext-700-normal.be4d02458ce53887dc37.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-cyrillic-ext-700-normal.be4d02458ce53887dc37.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-cyrillic-ext-700-normal.be4d02458ce53887dc37.woff2",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-cyrillic-ext-700-normal.be4d02458ce53887dc37.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-300-normal.db2632771401f61463fe.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-greek-300-normal.db2632771401f61463fe.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-greek-300-normal.db2632771401f61463fe.woff2",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-greek-300-normal.db2632771401f61463fe.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-400-normal.c35e4c3958e209d17b31.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-greek-400-normal.c35e4c3958e209d17b31.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-greek-400-normal.c35e4c3958e209d17b31.woff2",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-greek-400-normal.c35e4c3958e209d17b31.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-500-normal.9ac81fefbe6c319ea40b.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-greek-500-normal.9ac81fefbe6c319ea40b.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-greek-500-normal.9ac81fefbe6c319ea40b.woff2",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-greek-500-normal.9ac81fefbe6c319ea40b.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-700-normal.50e795c1345353b0e996.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-greek-700-normal.50e795c1345353b0e996.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-greek-700-normal.50e795c1345353b0e996.woff2",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-greek-700-normal.50e795c1345353b0e996.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-ext-500-normal.6fb9cffb1d3e72bf9293.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-greek-ext-500-normal.6fb9cffb1d3e72bf9293.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-greek-ext-500-normal.6fb9cffb1d3e72bf9293.woff2",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-greek-ext-500-normal.6fb9cffb1d3e72bf9293.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-300-normal.c48fb6765a9fcb00b330.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-latin-300-normal.c48fb6765a9fcb00b330.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-latin-300-normal.c48fb6765a9fcb00b330.woff2",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-latin-300-normal.c48fb6765a9fcb00b330.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-latin-700-normal.227c93190fe7f82de3f8.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-ext-300-normal.dc7dcec8e3f654e0ed63.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-latin-ext-300-normal.dc7dcec8e3f654e0ed63.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-latin-ext-300-normal.dc7dcec8e3f654e0ed63.woff2",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-latin-ext-300-normal.dc7dcec8e3f654e0ed63.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-ext-400-normal.861b791f9de857a6e7bc.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-latin-ext-400-normal.861b791f9de857a6e7bc.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-latin-ext-400-normal.861b791f9de857a6e7bc.woff2",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-latin-ext-400-normal.861b791f9de857a6e7bc.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-ext-500-normal.9165081d10e1ba601384.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-latin-ext-500-normal.9165081d10e1ba601384.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-latin-ext-500-normal.9165081d10e1ba601384.woff2",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-latin-ext-500-normal.9165081d10e1ba601384.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-latin-ext-700-normal.ed67ad54b1a8f5d21150.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-latin-ext-700-normal.ed67ad54b1a8f5d21150.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-latin-ext-700-normal.ed67ad54b1a8f5d21150.woff2",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-latin-ext-700-normal.ed67ad54b1a8f5d21150.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-vietnamese-300-normal.32fc45a3d1e8ea11fabc.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-vietnamese-300-normal.32fc45a3d1e8ea11fabc.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-vietnamese-300-normal.32fc45a3d1e8ea11fabc.woff2",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-vietnamese-300-normal.32fc45a3d1e8ea11fabc.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-vietnamese-500-normal.d8642a3d1d4ef6179644.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-vietnamese-500-normal.d8642a3d1d4ef6179644.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-vietnamese-500-normal.d8642a3d1d4ef6179644.woff2",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-vietnamese-500-normal.d8642a3d1d4ef6179644.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\roboto-vietnamese-700-normal.3425a701027d0699e369.woff2",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-vietnamese-700-normal.3425a701027d0699e369.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/roboto-vietnamese-700-normal.3425a701027d0699e369.woff2",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\roboto-vietnamese-700-normal.3425a701027d0699e369.woff2"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\slick.2630a3e3eab21c607e21.svg",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\slick.2630a3e3eab21c607e21.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/slick.2630a3e3eab21c607e21.svg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\slick.2630a3e3eab21c607e21.svg"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\slick.295183786cd8a1389865.woff",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\slick.295183786cd8a1389865.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/slick.295183786cd8a1389865.woff",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\slick.295183786cd8a1389865.woff"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\slick.a4e97f5a2a64f0ab1323.eot",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\slick.a4e97f5a2a64f0ab1323.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/slick.a4e97f5a2a64f0ab1323.eot",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\static\\media\\slick.a4e97f5a2a64f0ab1323.eot"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\static\\media\\slick.c94f7671dcc99dce43e2.ttf",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\slick.c94f7671dcc99dce43e2.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "static/media/slick.c94f7671dcc99dce43e2.ttf",
       "AssetKind": "All",
