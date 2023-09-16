@@ -92,3 +92,6 @@ C:\Users\trent\OneDrive\Code_Share\ReStore\api\obj\Debug\net7.0\refint\API.dll
 C:\Users\trent\OneDrive\Code_Share\ReStore\api\obj\Debug\net7.0\API.pdb
 C:\Users\trent\OneDrive\Code_Share\ReStore\api\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\trent\OneDrive\Code_Share\ReStore\api\obj\Debug\net7.0\ref\API.dll
+C:\Users\trent\OneDrive\Code_Share\ReStore\api\bin\Debug\net7.0\API.staticwebassets.runtime.json
+C:\Users\trent\OneDrive\Code_Share\ReStore\api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\trent\OneDrive\Code_Share\ReStore\api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
