@@ -1,4 +1,4 @@
-# fly.toml app configuration file generated for heritj-restore on 2023-09-16T11:01:43-07:00
+# fly.toml app configuration file generated for heritj-restore on 2023-09-16T13:58:39-07:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
@@ -8,11 +8,6 @@ primary_region = "lax"
 
 [build]
   image = "tstrum/restore:latest"
-
-[env]
-  ASPNETCORE_URLS="http://+:8080"
-  StripeSettings__PublishableKey="pk_test_51NgsM2EMk6RqULCN57RhcG93pWrXSN36afqsPDHKlFPB4EEE1JifUYgBNPN3HULKVMyytyLR8rsMKVG2HiBUFDFg00o4qVMNYV"
-  
 
 [http_service]
   internal_port = 8080
