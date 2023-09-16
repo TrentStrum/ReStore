@@ -15,7 +15,7 @@ export default function ProductCard({product}: Props){
     const dispatch = useAppDispatch();
 
     return (
-        <Card sx={{ maxWidth: 345 }}>
+        <Card sx={{ maxWidth: 350 }}>
             <CardHeader
                 avatar={
                     <Avatar sx= {{bgcolor: 'secondary.main'}}>
