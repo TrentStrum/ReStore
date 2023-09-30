@@ -96,3 +96,6 @@ C:\Users\trent\OneDrive\Code_Share\ReStore\api\bin\Debug\net7.0\API.staticwebass
 C:\Users\trent\OneDrive\Code_Share\ReStore\api\bin\Debug\net7.0\Npgsql.dll
 C:\Users\trent\OneDrive\Code_Share\ReStore\api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\trent\OneDrive\Code_Share\ReStore\API\bin\Debug\net7.0\appsettings.json
+C:\Users\trent\OneDrive\Code_Share\ReStore\api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\trent\OneDrive\Code_Share\ReStore\api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\trent\OneDrive\Code_Share\ReStore\API\bin\Debug\net7.0\CloudinaryDotNet.dll
