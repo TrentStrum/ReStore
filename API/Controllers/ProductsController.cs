@@ -62,7 +62,7 @@ namespace API.Controllers
 
         [Authorize(Roles = "Admin")]
         [HttpPost]
-        public async Task<ActionResult<Product>> CreateProduct([FromForm]CreateProductDto productDto)
+        public async Task<ActionResult<Product>> CreateProduct([FromForm ]CreateProductDto productDto)
         {
             var product = _mapper.Map<Product>(productDto);
 
@@ -88,7 +88,7 @@ namespace API.Controllers
 
         [Authorize(Roles = "Admin")]
         [HttpPut]
-        public async Task<ActionResult> UpdateProduct(UpdateProductDto productDto)
+        public async Task<ActionResult<Product>> UpdateProduct([FromForm]UpdateProductDto productDto)
         {
             var product = await _context.Products.FindAsync(productDto.Id);
 
@@ -96,9 +96,24 @@ namespace API.Controllers
 
             _mapper.Map(productDto, product);
 
+            if (productDto.File != null)
+            {
+                var imageResult = await _imageService.AddImageAsync(productDto.File);
+
+                if (imageResult.Error != null) 
+                    return BadRequest(new ProblemDetails{Title = imageResult.Error.Message});
+
+                if (!string.IsNullOrEmpty(product.PublicId)) 
+                    await _imageService.DeleteImageAsync(product.PublicId);
+                
+                product.PictureUrl = imageResult.SecureUrl.ToString();
+                product.PublicId = imageResult.PublicId;
+
+            }
+
             var result = await _context.SaveChangesAsync() >0;
 
-            if (result) return NoContent();
+            if (result) return Ok(product);
 
             return BadRequest(new ProblemDetails{Title="Problem updating product."});
         }
@@ -110,6 +125,9 @@ namespace API.Controllers
             var product = await _context.Products.FindAsync(id);
 
             if (product == null) return NotFound();
+
+            if (!string.IsNullOrEmpty(product.PublicId)) 
+                await _imageService.DeleteImageAsync(product.PublicId);
 
             _context.Products.Remove(product);
 
