@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gmN2w7U5A/4EguAnAf78CJ31sGSybjEx5HulgBvy9/Y=",
+  "Hash": "UCkjKixnHV9piz+fVDgDk6LFttkJIxz9nA6R+LwBRfg=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -595,12 +595,12 @@
       "OriginalItemSpec": "wwwroot\\static\\js\\787.c4e7f8f9.chunk.js.map"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\js\\main.5f194c69.js",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\js\\main.d29d56b2.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "static/js/main.5f194c69.js",
+      "RelativePath": "static/js/main.d29d56b2.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -609,15 +609,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\static\\js\\main.5f194c69.js"
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.d29d56b2.js"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\js\\main.5f194c69.js.LICENSE.txt",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\js\\main.d29d56b2.js.LICENSE.txt",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "static/js/main.5f194c69.js.LICENSE.txt",
+      "RelativePath": "static/js/main.d29d56b2.js.LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -626,15 +626,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\static\\js\\main.5f194c69.js.LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.d29d56b2.js.LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\js\\main.5f194c69.js.map",
+      "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\js\\main.d29d56b2.js.map",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "static/js/main.5f194c69.js.map",
+      "RelativePath": "static/js/main.d29d56b2.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -643,7 +643,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\static\\js\\main.5f194c69.js.map"
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.d29d56b2.js.map"
     },
     {
       "Identity": "C:\\Users\\trent\\OneDrive\\Code_Share\\ReStore\\API\\wwwroot\\static\\media\\roboto-all-300-normal.168d6383e73339293ac3.woff",
