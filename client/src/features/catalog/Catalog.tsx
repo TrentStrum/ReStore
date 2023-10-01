@@ -8,6 +8,7 @@ import { useAppDispatch, useAppSelector } from "../../app/store/configureStore";
 import { fetchFilters, fetchProductsAsync, productSelectors, setPageNumber, setProductParams } from "./catalogSlice";
 import ProductList from "./ProductList";
 import ProductSearch from "./ProductSearch";
+import useProducts from "../../app/hooks/useProducts";
 
 const sortOptions = [
     { value: 'name', label: 'Alphabetical' },
@@ -16,17 +17,9 @@ const sortOptions = [
 ]
 
 export default function Catalog() {
-    const products = useAppSelector(productSelectors.selectAll);
+    const {products, brands, types, filtersLoaded, metaData} = useProducts();
     const dispatch = useAppDispatch();
-    const { productsLoaded, filtersLoaded, brands, types, productParams, metaData } = useAppSelector(state => state.catalog);
-
-    useEffect(() => {
-        if (!productsLoaded) dispatch(fetchProductsAsync());
-    }, [dispatch, productsLoaded])
-
-    useEffect(() => {
-        if (!filtersLoaded) dispatch(fetchFilters());
-    }, [dispatch, filtersLoaded])
+    const { productParams } = useAppSelector(state => state.catalog);
 
     if (!filtersLoaded) return <LoadingComponent message='Loading products...' />
 

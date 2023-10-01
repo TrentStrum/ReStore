@@ -12,8 +12,8 @@ primary_region = "lax"
 [env]
   ASPNETCORE_URLS="http://+:8080"
   StripeSettings__PublishableKey="pk_test_51NgsM2EMk6RqULCN57RhcG93pWrXSN36afqsPDHKlFPB4EEE1JifUYgBNPN3HULKVMyytyLR8rsMKVG2HiBUFDFg00o4qVMNYV"
-  
-
+  Cloudinary__CloudName="dyy3ognxg"
+  Cloudinary__ApiKey="558651463972524"
 
 [http_service]
   internal_port = 8080
