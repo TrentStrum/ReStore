@@ -12,7 +12,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace API.Data.Migrations
 {
     [DbContext(typeof(StoreContext))]
-    [Migration("20230912002118_PostgresInitial")]
+    [Migration("20230930161314_PostgresInitial")]
     partial class PostgresInitial
     {
         /// <inheritdoc />
@@ -150,6 +150,9 @@ namespace API.Data.Migrations
 
                     b.Property<long>("Price")
                         .HasColumnType("bigint");
+
+                    b.Property<string>("PublicId")
+                        .HasColumnType("text");
 
                     b.Property<int>("QuantityInStock")
                         .HasColumnType("integer");
