@@ -1,0 +1,11 @@
+E-commerce store app built with:
+-React
+-ASP.NET Core
+-Entity Framework
+-TypeScript
+-C#
+-Redux
+-React Router
+-Axios
+-Material UI
+-Stripe
